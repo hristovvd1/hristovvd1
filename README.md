@@ -1,4 +1,5 @@
 ### Hi there 👋
+if (code == "boring") { Error: Never get bored(); code = Console.ReadLine(); } while (command != "boring") { Keep coding :)(); }
 
 <!--
 **hristovvd1/hristovvd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
