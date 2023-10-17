@@ -1,7 +1,7 @@
 ### Hi there 👋
 if (code == "boring")
   {
-  Error: Never get bored();
+  ### Error: Never get bored();
   code = Console.ReadLine();
   }
 while (command != "boring")
